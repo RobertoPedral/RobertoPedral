@@ -1,5 +1,5 @@
 # Welcome! 👋
-<img align="right" width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=RobertoPedral&show_icons=true&theme=dark">
+<img align="right" width="400" height="275" src="https://github-readme-stats.vercel.app/api?username=RobertoPedral&show_icons=true&theme=dark">
 
 <div>
     <ul>
